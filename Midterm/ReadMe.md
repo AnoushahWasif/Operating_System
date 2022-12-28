@@ -107,25 +107,25 @@ Run the code of 7.sh
 
 8: Not equal: Compare two value	
 
-Run the code of 8.sh
+Run the code of 7.sh
 
 ![image](https://user-images.githubusercontent.com/75376557/209838687-b809ba80-a42f-4d13-9073-6b2eb9427c7c.png)
 
 9: And: make two simple and gate	
 
-Run the code of 9.sh	 
+Run the code of 8.sh	 
 
 ![image](https://user-images.githubusercontent.com/75376557/209838765-55221975-b238-4c56-9d70-0edd5eb2655a.png)
 
 10: Or: make two input or gate	
 
-Run the code of 10.sh 	 
+Run the code of 9.sh 	 
 
 ![image](https://user-images.githubusercontent.com/75376557/209838838-346a7bcc-6475-41e6-a878-d6fcfd891928.png)
 
 11: Not: make 1 input not	
 
-Run the code of 11.sh 
+Run the code of 10.sh 
  
 ![image](https://user-images.githubusercontent.com/75376557/209838918-eacf4c66-4432-4899-9bea-1d8b85ae9c07.png)
 
